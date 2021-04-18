@@ -1,0 +1,4 @@
+[submodule "audio2waveform"]
+	path = audio2waveform
+	url = ../audio2waveform.git
+	branch = main
